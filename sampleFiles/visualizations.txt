@@ -1,0 +1,40 @@
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:LAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:BOS"]}
+{"command":"visualize", "specs": ["Opponent:WAS", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:SAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:MIA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": []}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:LAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:BOS"]}
+{"command":"visualize", "specs": ["Opponent:WAS", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:SAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:MIA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": []}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:LAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:BOS"]}
+{"command":"visualize", "specs": ["Opponent:WAS", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:SAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:MIA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": []}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:LAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:BOS"]}
+{"command":"visualize", "specs": ["Opponent:WAS", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:SAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:MIA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": []}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:LAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:BOS"]}
+{"command":"visualize", "specs": ["Opponent:WAS", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:SAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:MIA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": []}

@@ -1,0 +1,4 @@
+{"command":"ml", "model": "decision tree", "params": ["max_depth", "criterion"], "param_range":[[1,10], ["gini", "entropy"]]}
+{"command":"ml", "model": "decision tree", "params": ["max_depth", "criterion"], "param_range":[[1,10], ["gini", "entropy"]]}
+{"command":"ml", "model": "decision tree", "params": ["max_depth", "criterion"], "param_range":[[1,10], ["gini", "entropy"]]}
+{"command":"ml", "model": "decision tree", "params": ["max_depth", "criterion"], "param_range":[[1,10], ["gini", "entropy"]]}

@@ -1,0 +1,9 @@
+{"command":"ml", "model": "logistic regression", "params": ["C", "solver"], "param_range":[[1,3], ["newton-cg", "lbfgs"]]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:1"]}
+{"command":"visualize", "specs": ["Opponent:UTA", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"ml", "model": "ann", "params": ["hidden_layer_sizes", "activation", "solver"], "param_range":[[3,4], ["tanh", "relu"], ["sgd", "adam"]]}
+{"command":"visualize", "specs": ["Opponent:LAC", "ShotType:3PT Field Goal", "Playoffs:0"]}
+{"command":"visualize", "specs": ["Opponent:BOS"]}
+{"command":"ml", "model": "decision tree", "params": ["max_depth", "criterion"], "param_range":[[5,10], ["gini", "entropy"]]}
+{"command":"visualize", "specs": []}
+{"command":"ml", "model": "knn", "params": ["n_neighbors"], "param_range":[[9,12]]}
