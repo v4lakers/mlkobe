@@ -10,7 +10,7 @@ unzip data.zip
 ```
 
 ## Setting Up the Directory
-Download the "data" folder above to the proj3 directory. Once the directory looks like this, we can go ahead and get started.
+Download the "data" folder above to the mlkobe directory. Once the directory looks like this, we can go ahead and get started.
 
 ![Test Image 2](images/directory.png)
 
@@ -53,11 +53,11 @@ Each model has several parameters and various ranges that you can specify. As lo
 
 If you have made it this far in the readme, you're probably tired of me talking and would like to see this project in action. Let's get to it.
 
-We will be using Go and Python to read in a txt file full of jobs (both ml and visualization). This project requires heavy computation so running tasks in parallel will greatly reduce execution time. To get started, make sure you are in the proj3 directory and run the following command in your terminal.
+We will be using Go and Python to read in a txt file full of jobs (both ml and visualization). This project requires heavy computation so running tasks in parallel will greatly reduce execution time. To get started, make sure you are in the mlkobe directory and run the following command in your terminal.
 
 ### Parallel
 ```bash
-go run proj3.go p=8 <sampleFiles/simple.txt
+go run kobe.go p=8 <sampleFiles/simple.txt
 ```
 p=8 -> Run the program using 8 threads
 
@@ -69,7 +69,7 @@ Note: this will take some time to run (5ish minutes)
 ### Sequential
 If you wish to run this program sequentially because you love your computer and are kind enough to show some mercy to the CPU, run the following command in your terminal.
 ```bash
-go run proj3.go <sampleFiles/simple.txt
+go run kobe.go <sampleFiles/simple.txt
 ```
 
 ## Expected Results
