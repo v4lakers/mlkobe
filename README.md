@@ -57,7 +57,7 @@ We will be using Go and Python to read in a txt file full of jobs (both ml and v
 
 ### Parallel
 ```bash
-go run kobe.go p=8 <sampleFiles/simple.txt
+go run src/kobe.go p=8 <sampleFiles/simple.txt
 ```
 p=8 -> Run the program using 8 threads
 
@@ -69,7 +69,7 @@ Note: this will take some time to run (5ish minutes)
 ### Sequential
 If you wish to run this program sequentially because you love your computer and are kind enough to show some mercy to the CPU, run the following command in your terminal.
 ```bash
-go run kobe.go <sampleFiles/simple.txt
+go run src/kobe.go <sampleFiles/simple.txt
 ```
 
 ## Expected Results
